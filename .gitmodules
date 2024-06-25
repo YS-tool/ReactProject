@@ -1,0 +1,3 @@
+[submodule "react-app-jsx"]
+	path = react-app-jsx
+	url = https://github.com/YS-tool/reactJsxProject.git
